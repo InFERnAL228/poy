@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ConsoleApp2
+namespace ConsoleApp2//Название проекта
 {
     class Program//Класс
     {
