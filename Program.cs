@@ -12,7 +12,7 @@ namespace ConsoleApp2
 		static void Main()//Метод Main //
 		{
 			double m;//Объявляем переменную
-			double cm;
+			double cm; //commt
 			double mm; //
 			double d;
 			Console.WriteLine("Введите число дюймов:");//Вводим данные в консоль
