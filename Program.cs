@@ -14,6 +14,8 @@ namespace ConsoleApp2
 			double m;//Объявляем переменную
 			double cm; //commt
 			double mm; // //nonew
+			double cm; //commt //new
+			double mm; //
 			double d;
 			Console.WriteLine("Введите число дюймов:");//Вводим данные в консоль
 			d = Convert.ToDouble(Console.ReadLine()); //Конвертируем
