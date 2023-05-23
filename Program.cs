@@ -13,7 +13,7 @@ namespace ConsoleApp2
 		{
 			double m;//Объявляем переменную
 			double cm; //commt
-			double mm; //
+			double mm; // //nonew
 			double d;
 			Console.WriteLine("Введите число дюймов:");//Вводим данные в консоль
 			d = Convert.ToDouble(Console.ReadLine()); //Конвертируем
